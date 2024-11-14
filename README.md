@@ -8,7 +8,7 @@ I am a passionate and driven developer and designer, dedicated to leaving my mar
 
 My approach begins with meticulous planning and thoughtful design, ensuring that each project has a strong foundation. From there, I move into the development phase, where I focus on translating ideas into functional, user-friendly applications. With a blend of technical skill and creative insight, I’m constantly striving to enhance user experiences and contribute solutions that make a tangible difference.
 
-[![Dyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trooper024)](https://github.com/anuraghazra/github-readme-stats)
+![Dyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trooper024&show_icons=true&theme=radical)
 
 ## Life
 Deakin University [Bachelor Of Information Technology](https://www.deakin.edu.au/course/bachelor-information-technology)  
