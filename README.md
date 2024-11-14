@@ -6,4 +6,4 @@ I am a passionate and driven developer and designer, dedicated to leaving my mar
 
 My approach begins with meticulous planning and thoughtful design, ensuring that each project has a strong foundation. From there, I move into the development phase, where I focus on translating ideas into functional, user-friendly applications. With a blend of technical skill and creative insight, I’m constantly striving to enhance user experiences and contribute solutions that make a tangible difference.
 
-<iframe src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/i4MAH84pqe2m2aVojc">via GIPHY</a></p>
+![Coding GIF](https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif)
