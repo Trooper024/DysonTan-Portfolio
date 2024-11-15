@@ -28,7 +28,3 @@ Deakin University [Bachelor Of Information Technology](https://www.deakin.edu.au
 ⛅ Wix  
 📔 Figma  
 📎 Markdown Language
-
-## My Top Projects
->
->
