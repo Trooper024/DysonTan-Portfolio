@@ -1,4 +1,4 @@
-#include "splashkit.h" // Include the splashkit library for I/O and utilities
+#include "splashkit.h" // Include the splashkit library for I/O and utilities 
 
 using namespace std; // Use the standard namespace
 
