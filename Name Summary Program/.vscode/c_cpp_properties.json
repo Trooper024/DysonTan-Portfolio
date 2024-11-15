@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/SplashKit/include", // Add the correct path here
+                "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.20.27508/include",
+                "C:/MinGW/include"
+            ],
+            "defines": [],
+            "intelliSenseMode": "gcc-x86",
+            "compilerPath": "C:/MinGW/bin/g++.exe",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/SplashKit/include", // Make sure this points to the correct directory
+                    "${workspaceFolder}"
+                ]
+            },
+            "intelliSenseMode": "gcc-x86",
+            "compilerPath": "C:/MinGW/bin/g++.exe"
+        }
+    ],
+    "version": 4
+}

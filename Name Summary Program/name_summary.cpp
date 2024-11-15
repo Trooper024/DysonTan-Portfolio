@@ -7,7 +7,7 @@ string read_string(string prompt)
 {
     string result;
     write(prompt); // Display the prompt
-    result = read_line(); // Read input line from user
+    result = read_string(); // Read input line from user
     return result; // Return the user's input
 }
 
@@ -16,8 +16,8 @@ int read_integer(string prompt)
 {
     string result;
     write(prompt); // Display the prompt
-    result = read_line(); // Read input line from user
-    return convert_to_integer(result); // Convert the input to an integer and return
+    result = read_string(); // Read input line from user
+    return convert_string_to_integer(result); // Convert the input to an integer and return
 }
 
 // Function to read a double input from the user
@@ -25,8 +25,8 @@ double read_double(string prompt)
 {
     string result;
     write(prompt); // Display the prompt
-    result = read_line(); // Read input line from user
-    return convert_to_double(result); // Convert the input to a double and return
+    result = read_string(); // Read input line from user
+    return convert_string_to_double(result); // Convert the input to a double and return
 }
 
 // Function to calculate the total length of all names in an array
