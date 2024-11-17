@@ -30,7 +30,7 @@ Imagine putting on AR goggles like the Apple Vision Pro and seeing helpful infor
 - 🗺️ **Explore Like Never Before**: Enhance your surroundings with augmented overlays.
 
 **Preview:**  
-![AR App UI](https://github.com/Trooper024/DysonTan/blob/main/UX%20Designs/Mobile%20App%20UI.png)
+![AR App UI](https://github.com/Trooper024/DysonTan/blob/main/UX%20Designs/AR%20UI.png)
 
 ---
 
@@ -62,10 +62,9 @@ Each project showcases my ability to tackle real-world challenges with innovativ
 
 Want to see more of my work or get in touch? Let’s connect!  
 
-- 🌐 **Portfolio**: [Insert your Wix Portfolio link here]  
 - 💼 **LinkedIn**: [Dyson Tan LinkedIn](https://www.linkedin.com/in/dyson-yong-shen-tan/)  
 
 ---
 
-📩 **Feel free to reach out for collaborations or feedback.**  
+📩 **Feel free to reach out for collaborations.**  
 Thank you for exploring my journey! 😊
