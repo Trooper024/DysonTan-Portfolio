@@ -70,7 +70,9 @@ I took on the challenge of redesigning the user interface (UI) for a **VR bike g
 This redesign improves user experience and aligns the game with a polished, corporate branding style.
 
 **Preview:**  
+https://github.com/Trooper024/DysonTan/blob/main/UX%20Designs/VR%20Bike%20Game.png
 
+https://github.com/Trooper024/DysonTan/blob/main/UX%20Designs/Vr%20Bike%20Game%20in%20Unity.png
 
 ---
 
