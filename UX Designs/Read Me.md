@@ -16,7 +16,7 @@ Designed with international students in mind 🌍, this mobile app serves as a h
 - 📰 **Stay Updated**: Access the latest country-specific news in a snap.
 
 **Preview:**  
-![Mobile App UI](https://github.com/Trooper024/DysonTan/blob/main/UX%20Designs/Mobile%20App%20UI.png)
+![Mobile App UI](https://github.com/Trooper024/DysonTan-Portfolio/blob/main/UX%20Designs/Mobile%20App/Mobile%20App%20UI.png)
 
 ---
 
@@ -30,7 +30,7 @@ Imagine putting on AR goggles like the Apple Vision Pro and seeing helpful infor
 - 🗺️ **Explore Like Never Before**: Enhance your surroundings with augmented overlays.
 
 **Preview:**  
-![AR App UI](https://github.com/Trooper024/DysonTan/blob/main/UX%20Designs/AR%20UI.png)
+![AR App UI](https://github.com/Trooper024/DysonTan-Portfolio/blob/main/UX%20Designs/AR%20UI%20Application/AR%20UI.png)
 
 ---
 
@@ -70,9 +70,9 @@ I took on the challenge of redesigning the user interface (UI) for a **VR bike g
 This redesign improves user experience and aligns the game with a polished, corporate branding style.
 
 **Preview:**  
-https://github.com/Trooper024/DysonTan/blob/main/UX%20Designs/VR%20Bike%20Game.png
+https://github.com/Trooper024/DysonTan-Portfolio/blob/main/UX%20Designs/Unity%20VR%20Bike%20Game/VR%20Bike%20Game.png
 
-https://github.com/Trooper024/DysonTan/blob/main/UX%20Designs/Vr%20Bike%20Game%20in%20Unity.png
+https://github.com/Trooper024/DysonTan-Portfolio/blob/main/UX%20Designs/Unity%20VR%20Bike%20Game/Vr%20Bike%20Game%20in%20Unity.png
 
 ---
 
