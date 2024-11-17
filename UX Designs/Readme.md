@@ -48,16 +48,6 @@ During my internship, I teamed up with a talented group to **modernize a company
 
 ---
 
-## 💡 Why These Designs Matter  
-
-Each project showcases my ability to tackle real-world challenges with innovative design solutions:  
-
-1. **User-Centered Approach**: Designs focus on simplicity and usability. 🧑‍💻  
-2. **Cross-Platform Expertise**: From mobile apps to AR and websites. 🌐  
-3. **Team Collaboration**: I thrive working with others to deliver top-notch results. 🤝  
-
----
-
 ## 🚴‍♂️ VR Bike Game UI Redesign  
 
 **What’s it about?**  
@@ -67,12 +57,9 @@ I took on the challenge of redesigning the user interface (UI) for a **VR bike g
 - 🔘 **Emoticons for Quick Recognition**: Buttons are paired with emoticons to help users instantly identify their functions, even at a glance.  
 - 🌈 **Vivid & Contrasting Colors**: Enhanced contrast ensures key elements pop, making the UI more present and intuitive.  
 
-This redesign improves user experience and aligns the game with a polished, corporate branding style.
-
 **Preview:**  
-https://github.com/Trooper024/DysonTan-Portfolio/blob/main/UX%20Designs/Unity%20VR%20Bike%20Game/VR%20Bike%20Game.png
-
-https://github.com/Trooper024/DysonTan-Portfolio/blob/main/UX%20Designs/Unity%20VR%20Bike%20Game/Vr%20Bike%20Game%20in%20Unity.png
+![VR Bike Game UI](https://github.com/Trooper024/DysonTan-Portfolio/blob/main/UX%20Designs/Unity%20VR%20Bike%20Game/VR%20Bike%20Game.png)  
+![VR Bike Game in Unity](https://github.com/Trooper024/DysonTan-Portfolio/blob/main/UX%20Designs/Unity%20VR%20Bike%20Game/Vr%20Bike%20Game%20in%20Unity.png)
 
 ---
 
