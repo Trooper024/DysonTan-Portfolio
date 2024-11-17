@@ -58,6 +58,32 @@ Each project showcases my ability to tackle real-world challenges with innovativ
 
 ---
 
+## 🚴‍♂️ VR Bike Game UI Redesign  
+
+**What’s it about?**  
+I took on the challenge of redesigning the user interface (UI) for a **VR bike game**, creating a more corporate and modern aesthetic while enhancing functionality and visual appeal. Here's what makes it special:  
+
+- 🎨 **Modern Aesthetic**: A sleek and professional look designed in Unity.  
+- 🔘 **Emoticons for Quick Recognition**: Buttons are paired with emoticons to help users instantly identify their functions, even at a glance.  
+- 🌈 **Vivid & Contrasting Colors**: Enhanced contrast ensures key elements pop, making the UI more present and intuitive.  
+
+This redesign improves user experience and aligns the game with a polished, corporate branding style.
+
+**Preview:**  
+
+
+---
+
+## 💡 Why These Designs Matter  
+
+Each project showcases my ability to tackle real-world challenges with innovative design solutions:  
+
+1. **User-Centered Approach**: Designs focus on simplicity and usability. 🧑‍💻  
+2. **Cross-Platform Expertise**: From mobile apps to AR, websites, and VR games. 🌐  
+3. **Team Collaboration**: I thrive working with others to deliver top-notch results. 🤝  
+
+---
+
 ## 🔗 Explore More  
 
 Want to see more of my work or get in touch? Let’s connect!  
