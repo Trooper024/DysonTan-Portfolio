@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D5616AQGfBgNro9Lidg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715685057863?e=1736985600&v=beta&t=cEqwZHEQiDbu7bMAdEaR-WCxL3SSAV3vMv0GLsGJOTM" alt="Profile Background" width="700"/>
+    <img src="[https://media.licdn.com/dms/image/v2/D5616AQGfBgNro9Lidg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715685057863?e=1736985600&v=beta&t=cEqwZHEQiDbu7bMAdEaR-WCxL3SSAV3vMv0GLsGJOTM](https://media.licdn.com/dms/image/v2/D5616AQF26A7XM8cqjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731992048793?e=1737590400&v=beta&t=TAcm8mQjSVDGEpJvGVamLH_D1dcpF768RrmanlQdeuM)" alt="Profile Background" width="700"/>
 </p>
 
 **`Self-taught Digital Architect (Web Developer/UX Designer)`**
