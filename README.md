@@ -25,7 +25,6 @@ Deakin University — [Bachelor of Information Technology](https://www.deakin.ed
     <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="LinkedIn" width="120" style="border-radius: 4px;"/>  
 </a>  
 
----
 
 ## 💫 Skills  
 ☕ **JavaScript**  
@@ -33,4 +32,7 @@ Deakin University — [Bachelor of Information Technology](https://www.deakin.ed
 📝 **WordPress**  
 ⛅ **Wix**  
 📔 **Figma**  
-📎 **Markdown Language**
+📎 **Markdown Language**  
+🎮 **Unity**  
+🌀 **Blender**
+
