@@ -1,5 +1,5 @@
 <p align="center">  
-    <img src="https://media.licdn.com/dms/image/v2/D5616AQF26A7XM8cqjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731992048793?e=1737590400&v=beta&t=TAcm8mQjSVDGEpJvGVamLH_D1dcpF768RrmanlQdeuM" alt="Profile Background" width="700"/>  
+    <img src="https://media.licdn.com/dms/image/v2/D5616AQF26A7XM8cqjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731992048793?e=1749686400&v=beta&t=SJij4PYtpdNNo35FHcI-DzmvYIdi5u-7fN-15A_lTZQ" alt="Profile Background" width="700"/>  
 </p>
 
 **`Self-taught Digital Architect (Web Developer/UX Designer)`**
