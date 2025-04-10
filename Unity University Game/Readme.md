@@ -13,7 +13,7 @@ However, due to a **driver failure**, the original version of the game was **los
 ## 👀 Peer Review  
 To ensure the gameplay and visuals hit the mark, I asked a classmate to playtest and review the game. Here were some of their thoughts:
 
-> *“I really liked how the lighting was used to guide my attention subtly. The reflections added an eerie vibe to the environment—it made me feel like I was being watched”*
+> *“I like the light, the reflection of the game, its really real”*
 
 🎥 **Gameplay Preview:**  
 [![Watch the video](https://img.youtube.com/vi/fkJqeC8jRdQ/0.jpg)](https://youtu.be/fkJqeC8jRdQ)
